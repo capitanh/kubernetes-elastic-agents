@@ -20,3 +20,7 @@ src/main/resources-generated/
 # MacOS
 
 .DS_Store
+.classpath
+.project
+.settings/
+bin/
